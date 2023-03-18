@@ -1,0 +1,17 @@
+Link to unlisted YouTube video:
+https://youtube.com/.....
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1VltX9TZpp4raZvkaCPPXrPDfB_Y39MRhJsMWFxpZNGQ/edit?usp=sharing
+
+Paper title:
+TweetNLP: Cutting-Edge Natural Language Processing for Social Media
+
+Link to the paper:
+https://arxiv.org/pdf/2206.14774.pdf
+
+Group Number:
+04
+
+Individual Submitter:
+22241038 S M Rakib Hasan
