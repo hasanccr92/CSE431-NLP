@@ -1,7 +1,6 @@
 Paper title:
-Typed Text Recognition in Nepali and Bengali: An Image-based Approach
+
 Overleaf link:
-https://www.overleaf.com/2612298546vhkhfvbkfjzr
 
 Group Number:
 04 
